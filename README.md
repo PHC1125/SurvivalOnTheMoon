@@ -18,16 +18,3 @@ An interactive web application based on NASA's classic Moon Survival scenario. T
 ## 🎮 Demo
 
 Live Demo: https://phc1125.github.io/SurvivalOnTheMoon/
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic understanding of HTML/CSS/JavaScript for modifications
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/nasa-moon-survival.git
