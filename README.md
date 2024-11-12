@@ -17,7 +17,7 @@ An interactive web application based on NASA's classic Moon Survival scenario. T
 
 ## 🎮 Demo
 
-[Live Demo](your-demo-link-here)
+Live Demo: https://phc1125.github.io/SurvivalOnTheMoon/
 
 ## 🚀 Getting Started
 
